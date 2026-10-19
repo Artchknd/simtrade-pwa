@@ -1,6 +1,6 @@
 # SimTrade — Stock Market Simulation
 
-[![Built with Claude 5.5](https://shields.io)](https://anthropic.com)
+[![Built with Claude](https://commons.wikimedia.org/wiki/Special:FilePath/Claude_AI_symbol.svg?width=24)](https://claude.ai/) [![Built with Claude](https://img.shields.io/badge/Built%20with-Claude-D97757?logo=anthropic&logoColor=white)](https://anthropic.com)
 
 **SimTrade** is a browser-based stock market simulation game designed to provide an interactive virtual trading experience.
 
@@ -16,7 +16,7 @@
 
 Launch SimTrade directly in your browser:
 
-https://github.io
+https://artchknd.github.io/simtrade-pwa/
 
 ## Getting Started
 
