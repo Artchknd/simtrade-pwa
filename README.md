@@ -1,5 +1,7 @@
 # SimTrade — Stock Market Simulation
 
+[![Built with Claude 5.5](https://shields.io)](https://anthropic.com)
+
 **SimTrade** is a browser-based stock market simulation game designed to provide an interactive virtual trading experience.
 
 ## Features
@@ -14,7 +16,7 @@
 
 Launch SimTrade directly in your browser:
 
-https://artchknd.github.io/simtrade-pwa/
+https://github.io
 
 ## Getting Started
 
@@ -23,8 +25,13 @@ https://artchknd.github.io/simtrade-pwa/
 3. Export your save data periodically to keep a backup.
 4. On supported devices, install SimTrade from your browser for convenient access.
 
+## Contributors & Acknowledgments
+
+* **Artchknd:** Creator and lead developer of SimTrade.
+* **Claude 5.5 Sonnet (Anthropic):** Served as the AI pair programmer, actively assisting with code optimization, game logic, and PWA implementation.
+
 ## Notes
 
-* SimTrade does not use Claude account synchronization in this standalone version.
+* SimTrade is a standalone version and does not use cloud or account synchronization.
 * Local save data is tied to the browser and website origin. Clearing browser data or switching browsers or devices may cause your local progress to become unavailable.
 * Exported save data can be used as a backup and transferred manually between compatible sessions.
